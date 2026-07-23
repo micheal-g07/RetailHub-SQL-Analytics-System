@@ -1,0 +1,27 @@
+# Data Load Report
+
+Date:
+01-07-2026
+
+Status:
+✅ Successful
+
+Rows Imported
+
+Categories      : 10
+Suppliers       : 20
+Stores          : 15
+Customers       : 500
+Employees       : 80
+Products        : 250
+Orders          : 5000
+Order_Items     : 13500
+Payments        : 5000
+Returns         : 395
+
+Validation
+
+✅ No duplicate emails
+✅ No duplicate phone numbers
+✅ No orphan foreign keys
+✅ All constraints satisfied

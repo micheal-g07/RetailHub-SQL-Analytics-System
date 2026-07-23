@@ -1,0 +1,251 @@
+Product_ID,Product_Name,SKU,Category_ID,Supplier_ID,Cost_Price,Selling_Price,Current_Stock_Level,Reorder_Level,Status
+1,Premium Cotton T-Shirt Max,CAT04-NMS-001,4,13,7943.75,10808.33,41,15,Active
+2,Dyson Vacuum Cleaner Plus,CAT02-LHS-002,2,10,2152.03,2750.44,135,15,Discontinued
+3,Fitkit Motorized Treadmill Classic,CAT07-KIM-003,7,14,1332.44,1679.44,39,15,Active
+4,Philips Air Fryer Plus,CAT02-RUC-004,2,10,39314.08,54318.36,1,15,Active
+5,Anker Bluetooth Speaker Max,CAT01-GVK-005,1,18,12575.18,16804.25,236,15,Active
+6,Premium Cotton T-Shirt Lite,CAT04-XRI-006,4,20,524.84,642.86,220,15,Discontinued
+7,Reebok 6mm Yoga Mat Classic,CAT07-UQY-007,7,19,47578.29,65009.38,205,15,Active
+8,Ravensburger 1000pc Puzzle Plus,CAT08-ZRY-008,8,8,23489.04,31794.75,41,15,Active
+9,Zara Summer Dress Pro,CAT04-OOR-009,4,14,1601.19,1896.99,98,15,Active
+10,Marvel Iron Man Action Figure Pro,CAT08-NNV-010,8,12,37655.05,50484.52,96,15,Active
+11,Metal Desk Organizer Mesh V1,CAT10-EEK-011,10,1,28451.73,38403.76,166,15,Discontinued
+12,Yonex Badminton Racket V1,CAT07-RMG-012,7,7,23790.4,29314.78,183,15,Active
+13,Panasonic Microwave Oven Lite,CAT02-RFB-013,2,6,41340.09,53776.88,3,15,Active
+14,Decathlon 10kg Dumbbell Set Pro,CAT07-JVQ-014,7,10,3590.97,4181.19,63,15,Active
+15,Decathlon 10kg Dumbbell Set V1,CAT07-ERN-015,7,13,23963.73,27970.24,241,15,Active
+16,3-Seater Fabric Sofa Classic,CAT03-WVP-016,3,7,8022.18,10378.88,71,15,Discontinued
+17,Puma Running Shoes Pro,CAT05-OCM-017,5,7,30280.95,36691.73,165,15,Discontinued
+18,Ravensburger 1000pc Puzzle V1,CAT08-XCJ-018,8,15,32349.33,44633.15,235,15,Active
+19,Decathlon 10kg Dumbbell Set Classic,CAT07-HFT-019,7,20,36687.87,46390.24,66,15,Active
+20,Decathlon 10kg Dumbbell Set Pro,CAT07-IUR-020,7,2,14664.29,20223.14,204,15,Active
+21,Ravensburger 1000pc Puzzle V1,CAT08-LCY-021,8,14,5349.71,7177.36,135,15,Active
+22,Converse Chuck Taylor Sneakers V1,CAT05-OAC-022,5,7,31978.44,42176.54,107,15,Discontinued
+23,Levis Slim Fit Jeans V1,CAT04-IDW-023,4,13,45864.14,56494.42,144,15,Discontinued
+24,Philips Air Fryer Lite,CAT02-HWO-024,2,3,7097.76,9618.22,63,15,Active
+25,Parker Vector Gel Pen Set Max,CAT10-DRX-025,10,4,19602.39,22922.96,193,15,Active
+26,3-Seater Fabric Sofa Pro,CAT03-GWB-026,3,15,44644.12,57281.74,32,15,Active
+27,Yonex Badminton Racket V1,CAT07-TAB-027,7,10,38642.24,51849.33,115,15,Active
+28,Levis Slim Fit Jeans Classic,CAT04-AAK-028,4,3,41043.27,54176.7,14,15,Active
+29,Mesh Office Chair Classic,CAT03-QDK-029,3,6,16200.71,21169.41,158,15,Discontinued
+30,Decathlon 10kg Dumbbell Set Pro,CAT07-DLK-030,7,4,8762.72,10958.09,119,15,Active
+31,LEGO Classic Building Blocks Lite,CAT08-IUT-031,8,8,18511.1,21599.36,97,15,Discontinued
+32,Philips Air Fryer Pro,CAT02-IDT-032,2,18,16284.28,21295.25,217,15,Active
+33,L'Oreal Charcoal Face Wash Lite,CAT06-PCK-033,6,6,979.68,1350.02,150,15,Active
+34,Daawat Basmati Rice Pro,CAT09-ATY-034,9,19,44848.29,55038.37,213,15,Active
+35,Classmate Notebook Pack Pro,CAT10-LPJ-035,10,3,10179.39,12662.52,80,15,Discontinued
+36,L'Oreal Charcoal Face Wash Max,CAT06-UZY-036,6,5,2075.41,2797.54,228,15,Active
+37,Ergonomic Laptop Stand Max,CAT01-HGR-037,1,8,2797.29,3858.64,225,15,Active
+38,Metal Desk Organizer Mesh Max,CAT10-FOU-038,10,13,400.53,547.71,3,15,Active
+39,Wooden Study Table V1,CAT03-FSR-039,3,7,41576.92,57498.93,40,15,Discontinued
+40,Mattel Monopoly Board Game Lite,CAT08-GHN-040,8,10,8903.13,10792.75,134,15,Active
+41,Puma Running Shoes Max,CAT05-MMF-041,5,16,23587.6,29618.34,130,15,Active
+42,Hot Wheels Track Set Classic,CAT08-CYJ-042,8,1,29798.65,35406.75,85,15,Discontinued
+43,Hot Wheels Track Set Max,CAT08-MRT-043,8,10,24093.13,29714.26,70,15,Active
+44,Levis Slim Fit Jeans Plus,CAT04-XXL-044,4,1,24622.54,34014.14,210,15,Active
+45,Fitkit Motorized Treadmill Lite,CAT07-SCN-045,7,16,44260.48,61881.38,14,15,Active
+46,Zegna Formal Dress Shirt Lite,CAT04-LQW-046,4,14,24481.23,32367.18,186,15,Discontinued
+47,Decathlon 10kg Dumbbell Set Classic,CAT07-BLU-047,7,8,35356.29,40909.49,57,15,Active
+48,Parker Vector Gel Pen Set Max,CAT10-HTS-048,10,15,47592.73,64744.15,12,15,Active
+49,Milton Insulated Water Bottle V1,CAT07-QGN-049,7,13,8373.6,10523.25,148,15,Discontinued
+50,Dune Sci-Fi Paperback Book Lite,CAT10-CDU-050,10,10,28672.32,38689.96,88,15,Active
+51,Reebok 6mm Yoga Mat Pro,CAT07-PAD-051,7,10,3584.09,4745.62,187,15,Active
+52,Decathlon 10kg Dumbbell Set Max,CAT07-FWE-052,7,6,9980.22,11931.31,135,15,Active
+53,Mesh Office Chair Lite,CAT03-FZY-053,3,7,9674.05,13502.43,132,15,Active
+54,3-Seater Fabric Sofa V1,CAT03-MDI-054,3,3,3305.7,3826.07,144,15,Active
+55,Ergonomic Laptop Stand V1,CAT01-VSZ-055,1,2,49381.18,57983.9,21,15,Discontinued
+56,Agatha Christie Mystery Novel Classic,CAT10-PYK-056,10,17,30257.14,37341.47,107,15,Active
+57,Zara Summer Dress Classic,CAT04-TBL-057,4,12,43665.56,59016.95,13,15,Discontinued
+58,5-Tier Bookshelf V1,CAT03-QIW-058,3,1,37595.84,45571.21,195,15,Discontinued
+59,Borges Extra Virgin Olive Oil V1,CAT09-UKA-059,9,14,31724.49,43410.48,208,15,Active
+60,Ravensburger 1000pc Puzzle Classic,CAT08-MXT-060,8,8,39717.62,49134.01,141,15,Active
+61,Milton Insulated Water Bottle Pro,CAT07-WEQ-061,7,10,43823.08,58995.31,28,15,Active
+62,Marvel Iron Man Action Figure Lite,CAT08-ROF-062,8,3,44829.79,62257.94,158,15,Active
+63,Premium Cotton T-Shirt Lite,CAT04-WCD-063,4,7,21800.18,28971.16,103,15,Discontinued
+64,Adidas Sports Sandals Lite,CAT05-PVD-064,5,8,33306.27,45985.44,145,15,Active
+65,Titan Skinn Perfume Plus,CAT06-CUK-065,6,8,18911.82,25140.63,117,15,Discontinued
+66,Zegna Formal Dress Shirt V1,CAT04-JCD-066,4,8,4547.06,6070.99,210,15,Active
+67,Parker Vector Gel Pen Set Max,CAT10-MSX-067,10,12,182.76,213.0,236,15,Discontinued
+68,Fitkit Motorized Treadmill Lite,CAT07-ZEQ-068,7,11,33219.76,43109.08,0,15,Discontinued
+69,L'Oreal Charcoal Face Wash Pro,CAT06-PVO-069,6,5,7455.53,9102.07,237,15,Active
+70,Agatha Christie Mystery Novel Plus,CAT10-WDI-070,10,11,49841.75,66121.59,232,15,Active
+71,Hot Wheels Track Set V1,CAT08-ZKE-071,8,10,41410.45,49802.41,227,15,Active
+72,Sony Wireless Headphones Lite,CAT01-MJV-072,1,6,45626.58,54286.43,6,15,Active
+73,Fitkit Motorized Treadmill Classic,CAT07-MCQ-073,7,16,36364.05,44385.63,199,15,Discontinued
+74,Samsung Refrigerator Plus,CAT02-ZBW-074,2,5,15272.29,20062.57,133,15,Discontinued
+75,Bata Leather Loafers Pro,CAT05-ZXG-075,5,5,36791.41,42394.12,167,15,Active
+76,King Size Storage Bed Lite,CAT03-FBD-076,3,13,17842.63,22632.82,50,15,Active
+77,Parker Vector Gel Pen Set Lite,CAT10-XMH-077,10,14,1795.24,2172.62,196,15,Active
+78,Yonex Badminton Racket Lite,CAT07-MIU-078,7,3,32693.45,40599.73,1,15,Active
+79,Mattel Monopoly Board Game V1,CAT08-SSS-079,8,17,24025.97,31796.72,9,15,Active
+80,Yonex Badminton Racket Max,CAT07-SED-080,7,16,16327.93,21690.71,157,15,Active
+81,Yonex Badminton Racket Plus,CAT07-RZZ-081,7,1,26550.37,30957.28,157,15,Active
+82,Premium Cotton T-Shirt Plus,CAT04-WFA-082,4,4,27779.62,37506.05,2,15,Active
+83,5-Tier Bookshelf Max,CAT03-YBC-083,3,3,48997.43,62547.04,159,15,Active
+84,Decathlon 10kg Dumbbell Set Max,CAT07-BQZ-084,7,1,14739.5,18918.53,7,15,Active
+85,Twinings Green Tea Bags Plus,CAT09-QGW-085,9,12,5039.56,6828.31,68,15,Active
+86,Bata Leather Loafers Plus,CAT05-RGS-086,5,7,18016.35,21297.54,39,15,Active
+87,Bata Leather Loafers Classic,CAT05-OCI-087,5,13,33857.63,46894.5,3,15,Active
+88,Adidas Sports Sandals Plus,CAT05-VUQ-088,5,7,30285.74,38006.23,221,15,Discontinued
+89,Milton Insulated Water Bottle Pro,CAT07-CID-089,7,1,26619.36,35164.04,104,15,Active
+90,L'Oreal Charcoal Face Wash Pro,CAT06-ZHI-090,6,11,591.18,735.6,116,15,Active
+91,Philips Air Fryer Lite,CAT02-JSZ-091,2,6,24530.97,31454.59,241,15,Active
+92,Twinings Green Tea Bags V1,CAT09-BFK-092,9,9,47329.86,59038.83,209,15,Discontinued
+93,Mattel Monopoly Board Game Max,CAT08-AVQ-093,8,19,35688.81,46909.04,9,15,Active
+94,Anker Bluetooth Speaker Lite,CAT01-TNW-094,1,12,22942.55,28901.65,139,15,Active
+95,Converse Chuck Taylor Sneakers Lite,CAT05-HJU-095,5,14,42909.28,59509.32,100,15,Active
+96,IFB Front Load Washing Machine V1,CAT02-FSB-096,2,3,4319.8,5276.47,226,15,Active
+97,Decathlon 10kg Dumbbell Set Classic,CAT07-PQV-097,7,17,49896.93,68459.59,123,15,Active
+98,Classmate Notebook Pack Lite,CAT10-NWR-098,10,7,37507.43,45423.62,230,15,Active
+99,Parker Vector Gel Pen Set Lite,CAT10-YQH-099,10,15,8822.23,10955.12,5,15,Active
+100,Yonex Badminton Racket Pro,CAT07-LDK-100,7,16,45709.85,55420.51,216,15,Active
+101,Steve Madden Heels Max,CAT05-IGA-101,5,10,36926.48,47716.78,98,15,Active
+102,Hot Wheels Track Set V1,CAT08-LAT-102,8,20,23070.66,28252.05,5,15,Active
+103,Reebok 6mm Yoga Mat V1,CAT07-NPG-103,7,12,4327.71,5533.32,51,15,Discontinued
+104,Ergonomic Laptop Stand Pro,CAT01-PML-104,1,5,15033.32,18898.17,227,15,Active
+105,Dyson Vacuum Cleaner Pro,CAT02-ELX-105,2,15,21753.61,26970.33,70,15,Active
+106,Levis Slim Fit Jeans Pro,CAT04-MNX-106,4,10,16626.55,19251.91,142,15,Active
+107,Dyson Vacuum Cleaner Plus,CAT02-PZV-107,2,14,35743.62,44008.33,245,15,Discontinued
+108,Borges Extra Virgin Olive Oil V1,CAT09-DZA-108,9,13,6392.57,7901.41,10,15,Active
+109,Sony Wireless Headphones Plus,CAT01-XAN-109,1,11,24060.63,29367.34,6,15,Active
+110,Metal Desk Organizer Mesh Pro,CAT10-HIY-110,10,5,5838.5,7098.93,190,15,Discontinued
+111,Levis Slim Fit Jeans Lite,CAT04-XQT-111,4,16,9140.29,12779.39,182,15,Active
+112,Premium Cotton T-Shirt Classic,CAT04-BIG-112,4,4,46461.01,58381.78,43,15,Active
+113,Milton Insulated Water Bottle Max,CAT07-WUH-113,7,14,11165.58,14029.76,6,15,Active
+114,Adidas Sports Sandals Max,CAT05-ILW-114,5,4,20960.9,25781.07,0,15,Active
+115,Anker Bluetooth Speaker Max,CAT01-PIT-115,1,11,5127.01,6132.98,113,15,Active
+116,Puma Running Shoes Lite,CAT05-AVR-116,5,4,38545.14,45582.6,227,15,Active
+117,Metal Desk Organizer Mesh Max,CAT10-HUI-117,10,17,10579.66,13182.39,53,15,Active
+118,Anker Bluetooth Speaker Pro,CAT01-WOD-118,1,19,3835.49,4934.91,205,15,Discontinued
+119,Premium Cotton T-Shirt V1,CAT04-EGN-119,4,18,27568.73,33444.49,238,15,Active
+120,Cetaphil Moisturizer Classic,CAT06-CPN-120,6,15,26234.76,36416.76,62,15,Active
+121,Mesh Office Chair Plus,CAT03-BZW-121,3,10,9589.53,12980.71,156,15,Active
+122,5-Tier Bookshelf Classic,CAT03-RYM-122,3,15,20101.36,24480.91,60,15,Active
+123,Metal Desk Organizer Mesh Classic,CAT10-QWX-123,10,1,26300.15,32240.11,201,15,Active
+124,Borges Extra Virgin Olive Oil Pro,CAT09-BRH-124,9,4,14661.98,19205.78,91,15,Active
+125,Bata Leather Loafers Pro,CAT05-RDA-125,5,2,32466.41,42471.61,103,15,Active
+126,Borges Extra Virgin Olive Oil Classic,CAT09-TJK-126,9,9,49263.54,64362.26,5,15,Active
+127,Adidas Sports Sandals V1,CAT05-RVY-127,5,6,46955.94,60846.23,196,15,Discontinued
+128,Converse Chuck Taylor Sneakers Pro,CAT05-OHK-128,5,20,13511.8,17503.4,212,15,Discontinued
+129,Wooden Study Table Lite,CAT03-XNL-129,3,15,7500.88,9524.26,137,15,Active
+130,5-Tier Bookshelf Classic,CAT03-XFU-130,3,7,14173.01,17397.94,229,15,Discontinued
+131,Classmate Notebook Pack Pro,CAT10-CNH-131,10,7,22804.71,29903.35,205,15,Active
+132,iPhone Leather Case Classic,CAT01-MAD-132,1,20,41344.46,55437.19,31,15,Active
+133,Zegna Formal Dress Shirt Pro,CAT04-UTA-133,4,3,39639.78,45678.86,158,15,Active
+134,IFB Front Load Washing Machine Classic,CAT02-YSO-134,2,7,40790.7,50043.92,82,15,Active
+135,Twinings Green Tea Bags V1,CAT09-ABD-135,9,9,27276.64,32067.55,126,15,Active
+136,iPhone Leather Case Pro,CAT01-NME-136,1,8,17729.16,21659.92,195,15,Discontinued
+137,IFB Front Load Washing Machine V1,CAT02-HDJ-137,2,16,17928.66,23377.61,14,15,Active
+138,Anker Bluetooth Speaker Pro,CAT01-NQK-138,1,20,30019.61,39621.63,190,15,Active
+139,Agatha Christie Mystery Novel V1,CAT10-IPV-139,10,10,18517.71,22524.02,224,15,Active
+140,Anker Bluetooth Speaker Max,CAT01-EMO-140,1,5,36094.04,48596.53,37,15,Active
+141,Agatha Christie Mystery Novel Pro,CAT10-CKE-141,10,14,9174.43,11433.67,128,15,Discontinued
+142,Fitkit Motorized Treadmill Pro,CAT07-ZUH-142,7,20,19219.94,24742.5,146,15,Active
+143,Milton Insulated Water Bottle Lite,CAT07-NQS-143,7,3,38850.97,52558.49,42,15,Active
+144,Neutrogena Sunscreen V1,CAT06-LRP-144,6,1,47884.03,66090.78,5,15,Active
+145,King Size Storage Bed Pro,CAT03-RNH-145,3,10,10614.79,12802.99,50,15,Active
+146,Yonex Badminton Racket Max,CAT07-BWD-146,7,1,33170.09,38757.35,242,15,Active
+147,Ergonomic Laptop Stand Pro,CAT01-CHC-147,1,5,721.64,979.82,215,15,Active
+148,Ravensburger 1000pc Puzzle Lite,CAT08-JPN-148,8,5,36154.62,45590.74,23,15,Active
+149,Panasonic Microwave Oven Lite,CAT02-BTY-149,2,5,8760.65,10425.94,128,15,Discontinued
+150,Twinings Green Tea Bags Plus,CAT09-JWH-150,9,9,21240.15,25258.79,153,15,Discontinued
+151,King Size Storage Bed Plus,CAT03-BHM-151,3,7,9265.32,12383.09,235,15,Active
+152,Marvel Iron Man Action Figure Lite,CAT08-UMM-152,8,16,8323.74,11244.0,69,15,Active
+153,Panasonic Microwave Oven Max,CAT02-TYK-153,2,4,1498.64,1829.17,36,15,Active
+154,Agatha Christie Mystery Novel Pro,CAT10-RGU-154,10,1,46466.18,56227.97,9,15,Active
+155,Classmate Notebook Pack V1,CAT10-KCJ-155,10,16,522.09,646.95,121,15,Active
+156,L'Oreal Charcoal Face Wash Pro,CAT06-WVD-156,6,13,16631.78,22854.19,148,15,Active
+157,Sony Wireless Headphones Classic,CAT01-SBJ-157,1,19,8144.03,10754.95,10,15,Active
+158,Premium Cotton T-Shirt Lite,CAT04-FQQ-158,4,7,49613.72,64606.23,216,15,Active
+159,Marvel Iron Man Action Figure Max,CAT08-LTN-159,8,5,2095.64,2783.41,81,15,Active
+160,Classmate Notebook Pack Pro,CAT10-SUP-160,10,20,4959.56,5722.02,99,15,Active
+161,Hot Wheels Track Set Max,CAT08-FJF-161,8,4,3500.28,4529.81,38,15,Active
+162,Hot Wheels Track Set Max,CAT08-YOU-162,8,9,46214.62,64005.28,144,15,Active
+163,Maybelline Matte Lipstick Classic,CAT06-TVE-163,6,10,22096.3,28241.72,100,15,Active
+164,Philips Air Fryer Classic,CAT02-IVB-164,2,14,31067.62,40728.62,82,15,Active
+165,3-Seater Fabric Sofa Classic,CAT03-FSM-165,3,4,42705.08,51492.2,191,15,Active
+166,Maybelline Matte Lipstick Lite,CAT06-ROD-166,6,15,4381.55,5840.36,121,15,Discontinued
+167,Zegna Formal Dress Shirt V1,CAT04-KKT-167,4,13,24365.12,32297.74,91,15,Discontinued
+168,Anker Bluetooth Speaker Classic,CAT01-EUG-168,1,18,16076.31,18613.65,117,15,Active
+169,Maybelline Matte Lipstick Pro,CAT06-BGA-169,6,14,47635.99,62923.23,182,15,Active
+170,Panasonic Microwave Oven Max,CAT02-MCJ-170,2,5,43700.42,55187.3,74,15,Active
+171,Mesh Office Chair Classic,CAT03-KYJ-171,3,2,8309.21,10281.14,141,15,Active
+172,Milton Insulated Water Bottle Classic,CAT07-ARZ-172,7,12,44698.59,53622.22,168,15,Active
+173,Cetaphil Moisturizer Pro,CAT06-OEP-173,6,11,43227.64,50939.53,124,15,Active
+174,Dabur Organic Honey Pro,CAT09-UOU-174,9,1,48474.93,56927.09,68,15,Discontinued
+175,Twinings Green Tea Bags Classic,CAT09-GLG-175,9,6,47622.61,66335.25,23,15,Active
+176,L'Oreal Charcoal Face Wash Max,CAT06-QDW-176,6,1,25005.62,35001.92,110,15,Active
+177,Twinings Green Tea Bags Max,CAT09-DFO-177,9,14,21475.34,25646.36,158,15,Discontinued
+178,Yonex Badminton Racket Lite,CAT07-JWT-178,7,10,46900.29,64556.87,1,15,Active
+179,Philips Air Fryer Classic,CAT02-DPX-179,2,1,37610.17,51970.0,7,15,Active
+180,Bata Leather Loafers Pro,CAT05-YOR-180,5,14,19114.88,22916.64,51,15,Active
+181,Hot Wheels Track Set V1,CAT08-LZH-181,8,14,25426.28,30941.3,98,15,Discontinued
+182,Zara Summer Dress V1,CAT04-AAE-182,4,1,39545.46,53789.43,209,15,Active
+183,Titan Skinn Perfume Classic,CAT06-HRM-183,6,6,9712.75,12734.47,225,15,Discontinued
+184,Wooden Study Table Classic,CAT03-KQF-184,3,13,21925.34,25759.96,149,15,Active
+185,Agatha Christie Mystery Novel Plus,CAT10-FKG-185,10,13,4752.4,5495.72,12,15,Active
+186,USB-C Hub Adapter V1,CAT01-SMA-186,1,20,37141.75,43925.21,181,15,Active
+187,Wooden Study Table Max,CAT03-GRH-187,3,8,36342.0,49126.18,86,15,Active
+188,Bata Leather Loafers Lite,CAT05-AUS-188,5,3,43359.26,51065.63,51,15,Active
+189,3-Seater Fabric Sofa Pro,CAT03-CCP-189,3,10,42245.72,58222.2,45,15,Discontinued
+190,iPhone Leather Case Classic,CAT01-UCG-190,1,14,34397.09,42783.57,135,15,Active
+191,Mesh Office Chair Pro,CAT03-VSU-191,3,10,30371.08,35165.54,108,15,Discontinued
+192,Metal Desk Organizer Mesh V1,CAT10-FQX-192,10,20,12798.6,15107.45,157,15,Active
+193,Borges Extra Virgin Olive Oil Pro,CAT09-LDG-193,9,17,1570.93,1860.99,11,15,Active
+194,Steve Madden Heels Pro,CAT05-CLW-194,5,9,27618.71,33793.71,146,15,Discontinued
+195,Borges Extra Virgin Olive Oil Max,CAT09-FGV-195,9,13,42316.19,56252.99,46,15,Active
+196,King Size Storage Bed Classic,CAT03-ONT-196,3,7,37378.26,50609.16,175,15,Discontinued
+197,Milton Insulated Water Bottle Max,CAT07-LUC-197,7,7,22524.23,30911.41,84,15,Discontinued
+198,Converse Chuck Taylor Sneakers Max,CAT05-MAD-198,5,20,9076.22,11169.83,111,15,Active
+199,Samsung Refrigerator Max,CAT02-EYK-199,2,7,6201.95,7626.21,5,15,Active
+200,Marvel Iron Man Action Figure Pro,CAT08-RCM-200,8,19,14251.35,17145.0,163,15,Active
+201,Metal Desk Organizer Mesh Lite,CAT10-NVY-201,10,3,21815.76,29524.33,32,15,Discontinued
+202,Marvel Iron Man Action Figure Classic,CAT08-DDO-202,8,2,8638.87,10640.66,167,15,Active
+203,Converse Chuck Taylor Sneakers V1,CAT05-OJE-203,5,1,42096.98,52650.81,155,15,Active
+204,Cetaphil Moisturizer Classic,CAT06-DZN-204,6,1,36189.36,44102.83,122,15,Active
+205,Dabur Organic Honey Plus,CAT09-BMJ-205,9,11,34852.2,44040.82,51,15,Active
+206,Classmate Notebook Pack Pro,CAT10-BAE-206,10,4,5345.27,6578.5,131,15,Active
+207,Wooden Study Table Lite,CAT03-ZLR-207,3,3,49478.29,68454.58,86,15,Active
+208,Samsung Refrigerator V1,CAT02-IKW-208,2,2,30675.26,41507.35,63,15,Active
+209,Classmate Notebook Pack Pro,CAT10-KEY-209,10,15,29247.1,39850.3,183,15,Discontinued
+210,Philips Air Fryer Pro,CAT02-SPV-210,2,17,24555.18,29960.64,143,15,Active
+211,Samsung Refrigerator Lite,CAT02-CLR-211,2,9,41792.55,50593.81,239,15,Active
+212,Dyson Vacuum Cleaner V1,CAT02-GAV-212,2,3,10884.16,14743.99,46,15,Active
+213,Nike Fleece Hoodie Plus,CAT04-KYJ-213,4,19,35453.77,46579.95,47,15,Active
+214,Zara Summer Dress Classic,CAT04-TQG-214,4,12,39022.05,46708.94,62,15,Active
+215,Parker Vector Gel Pen Set Classic,CAT10-DXD-215,10,4,12103.07,16623.86,27,15,Discontinued
+216,Aashirvaad Whole Wheat Atta Max,CAT09-DRC-216,9,15,17784.9,21395.53,130,15,Active
+217,Ergonomic Laptop Stand Max,CAT01-DBU-217,1,15,19186.87,26516.35,68,15,Discontinued
+218,3-Seater Fabric Sofa Plus,CAT03-TPQ-218,3,20,21733.91,28695.07,48,15,Active
+219,Panasonic Microwave Oven Plus,CAT02-IHC-219,2,2,26652.37,32485.64,199,15,Discontinued
+220,Reebok 6mm Yoga Mat Pro,CAT07-XWI-220,7,13,24808.07,29590.01,183,15,Active
+221,Classmate Notebook Pack V1,CAT10-FQW-221,10,10,31142.71,41568.44,196,15,Active
+222,Mesh Office Chair Pro,CAT03-FKO-222,3,11,7176.5,8275.82,105,15,Active
+223,Mesh Office Chair Pro,CAT03-VYA-223,3,9,29739.86,41409.35,145,15,Active
+224,LEGO Classic Building Blocks V1,CAT08-SVJ-224,8,4,41783.42,53537.82,57,15,Active
+225,Samsung Refrigerator Classic,CAT02-PXL-225,2,10,49489.68,60097.04,113,15,Discontinued
+226,Ergonomic Laptop Stand Lite,CAT01-KQY-226,1,12,33229.46,45400.81,143,15,Active
+227,Puma Running Shoes Pro,CAT05-NHV-227,5,17,49703.94,61598.02,9,15,Discontinued
+228,Cetaphil Moisturizer Pro,CAT06-MUD-228,6,7,48275.11,66102.43,250,15,Discontinued
+229,Aashirvaad Whole Wheat Atta Lite,CAT09-LKM-229,9,6,29497.48,40892.85,68,15,Active
+230,Agatha Christie Mystery Novel Plus,CAT10-DNZ-230,10,17,22804.88,31745.27,93,15,Active
+231,Anker Bluetooth Speaker Classic,CAT01-VEQ-231,1,16,48335.91,63124.22,97,15,Discontinued
+232,Adidas Sports Sandals V1,CAT05-OBG-232,5,3,14221.56,18463.39,4,15,Active
+233,Reebok 6mm Yoga Mat V1,CAT07-IEL-233,7,12,43947.23,59166.85,216,15,Active
+234,IFB Front Load Washing Machine Lite,CAT02-GNS-234,2,9,45920.17,56146.62,14,15,Active
+235,Zara Summer Dress Classic,CAT04-DIJ-235,4,13,29891.24,35669.98,244,15,Active
+236,Parker Vector Gel Pen Set Max,CAT10-ENR-236,10,5,10055.21,12330.19,180,15,Discontinued
+237,Dabur Organic Honey Classic,CAT09-DEQ-237,9,6,22149.88,27207.03,202,15,Active
+238,Hot Wheels Track Set Classic,CAT08-NNO-238,8,12,1479.88,1908.64,127,15,Active
+239,3-Seater Fabric Sofa Pro,CAT03-SQL-239,3,20,6450.02,8293.55,95,15,Active
+240,Yonex Badminton Racket Lite,CAT07-AOZ-240,7,5,38172.48,48841.77,41,15,Active
+241,Adidas Sports Sandals Plus,CAT05-DJS-241,5,4,24124.25,29741.02,11,15,Active
+242,Premium Cotton T-Shirt Plus,CAT04-XPE-242,4,17,11253.82,14842.89,97,15,Active
+243,USB-C Hub Adapter Lite,CAT01-GDC-243,1,16,100.78,131.11,1,15,Active
+244,Zara Summer Dress V1,CAT04-QOM-244,4,4,2876.09,3395.09,67,15,Active
+245,Twinings Green Tea Bags Lite,CAT09-OVT-245,9,9,6246.51,7411.87,2,15,Active
+246,5-Tier Bookshelf Pro,CAT03-PPJ-246,3,17,14542.51,17087.52,114,15,Active
+247,Reebok 6mm Yoga Mat Classic,CAT07-NNE-247,7,13,1494.74,1889.76,22,15,Active
+248,Sony Wireless Headphones V1,CAT01-LEO-248,1,20,44131.97,55808.74,2,15,Active
+249,Borges Extra Virgin Olive Oil Max,CAT09-WQM-249,9,17,25699.95,30676.08,187,15,Active
+250,Marvel Iron Man Action Figure Lite,CAT08-JMC-250,8,5,45815.39,60076.97,140,15,Active

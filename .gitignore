@@ -1,0 +1,26 @@
+# Python bytecode compilation artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Local Integrated Development Environment (IDE) configs
+.vscode/
+.idea/
+
+# Operating System background metadata records
+.DS_Store
+Thumbs.db
+
+# Project runtime pipeline outputs (Keeps massive mock files out of GitHub)
+output_csv/
+
+# Environment / credentials
+.env
+*.env
+
+# Power BI temporary files
+*.tmp
+~$*
